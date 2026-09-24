@@ -1,0 +1,7 @@
+# Ignorar arquivos temporários do Python e do SO
+__pycache__/
+*.pyc
+.DS_Store
+
+# Ignorar arquivos de backup e temporários do Power BI
+*.pbix.backup
