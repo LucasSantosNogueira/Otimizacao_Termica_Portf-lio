@@ -34,6 +34,10 @@ A malha PID foi submetida a uma função objetivo de minimização de erro em re
 * **Índice de Estabilidade da Malha:** Medida em DAX avaliando a porcentagem de tempo em que a temperatura variou em $\pm 1,5^\circ\text{C}$ do Setpoint em regime permanente.
 * **Sinal de Atuação (PWM):** Análise do esforço do elemento final de controle para otimização de consumo energético.
 
+<p align="center">
+  <img src="docs/dashboard.png" alt="Dashboard Supervisório do Processo Térmico" width="800">
+</p>
+
 ---
 
 ## 📁 Estrutura do Repositório
